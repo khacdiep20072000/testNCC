@@ -1,0 +1,22 @@
+.sidebar{
+    width: 8%;
+    min-width: 100px;
+    background-color:  #191718;
+}
+
+.container{
+    width: 92%;
+}
+
+/* Mobile & Tablet  */
+
+@media (max-width:1023px){
+    .sidebar{
+        width: 100%;
+    }
+
+    .container{
+        width: 100%;
+    }
+}
+

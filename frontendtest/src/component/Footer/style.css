@@ -1,0 +1,14 @@
+.footer_copyright{
+    padding: 20px 100px;
+}
+
+
+/* resposive  */
+
+/* Mobile & Tablet  */
+
+@media (max-width:1023px){
+    .footer_copyright{
+        text-align: center;
+    }
+}
